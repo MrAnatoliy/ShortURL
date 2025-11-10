@@ -1,6 +1,13 @@
 # ShortURL Service
 This is a simple backend application for managing short urls with redirects and TTL limits
 
+## Architecture
+This application has a layered architecture and got this layers :
+- Representation (Controllers)
+- Service (Buisness logic)
+- Repository
+- Entities
+
 ## Instalation
 1. Clone a repository `git clone https://github.com/MrAnatoliy/ShortURL.git`
 
