@@ -19,7 +19,7 @@ This application has a layered architecture and got this layers :
 
 4. Run jar file `java -jar target/*.jar`
 
-## Usage
+## Usage (Testing)
 **WARNING -** This is a full REST application so there is no CLI commands. Shell can only be used for checking logs for notifications and other useful stuff
 
 For using this application you can use either Postman or curl
